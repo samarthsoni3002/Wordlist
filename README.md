@@ -16,8 +16,9 @@ Screenshots
 
 
 # Technologies Used
-Frontend: HTML, CSS for the user interface.
-Backend: PHP and MySQL for data management.
-JavaScript: For adding interactive functionality.
 
+- **Frontend:** HTML, CSS for the user interface.
+- **Backend:** PHP and MySQL for data management.
+- **JavaScript:** For adding interactive functionality.
+  
 This tool is designed to be efficient, making it easy for users to generate or access the wordlists they need, whether for security testing, password cracking, or other tasks requiring custom wordlists.
