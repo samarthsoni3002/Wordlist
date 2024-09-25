@@ -1,18 +1,23 @@
-# Wordlist
-
-This repository contains a wordlist generator implemented using Html, Css, JavaScript and PHP.
-The main goal of the object is to help the Hackers world wide to download their preferred wordlist for their specific task. 
+# Wordlist Generator
+This repository provides a user-friendly Wordlist Generator, built with HTML, CSS, JavaScript, and PHP. It is designed to help users, including cybersecurity professionals and hackers, create and download custom wordlists tailored to their specific tasks.
 
 # Project Overview
+The Wordlist Generator simplifies the process of generating wordlists for different use cases. It offers a clean, intuitive interface for users to either generate random wordlists or create custom ones. The front-end is built using HTML and CSS, while JavaScript powers the interactive elements. On the back-end, PHP and MySQL are used for handling data and storing user-generated wordlists.
 
-The wordlist generator is designed to assist the user in creating wordlist of their choice. 
-The Frontend of the project is made using HTML,CSS.
-The functionality of the project is added using JavaScript.
-The Backend is made using PHP and MySql.
+# Key Features
+Random Wordlist Generation: Users can create wordlists by selecting from a set of alphabets, numbers, and symbols.
+Custom Wordlist Creation: Users can manually input and compile a list of preferred words.
+Access to Popular Wordlists: The tool provides a link to a well-known GitHub repository containing pre-built wordlists commonly used in the community.
+Screenshots
 
-# Features
-The project has a very user friendly interface which asks for three options. 
-One is if the user wants to create random wordlist using a set of alphabets,numbers etc.
-The other option lets the user make their custom wordlist by adding their preferred words.
-The last options takes the user to the infamous github repository where there are common wordlist that are already made. 
+# Screenshots
+![wordlist_1](https://github.com/user-attachments/assets/13ce881c-9caa-47e2-aa32-0f76bd886751)
+![wordlist_2](https://github.com/user-attachments/assets/820fdf94-76dc-4f17-b47e-6777fd20dab7)
 
+
+# Technologies Used
+Frontend: HTML, CSS for the user interface.
+Backend: PHP and MySQL for data management.
+JavaScript: For adding interactive functionality.
+
+This tool is designed to be efficient, making it easy for users to generate or access the wordlists they need, whether for security testing, password cracking, or other tasks requiring custom wordlists.
